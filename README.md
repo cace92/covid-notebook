@@ -1,3 +1,3 @@
 # Covid notebook
 
-Interactive charts on https://gesis.mybinder.org/binder/v2/gh/cace92/covid-notebook
+Interactive charts at https://hub.gke.mybinder.org/user/cace92-covid-notebook-rck5q2n3/notebooks/covid_plotly.ipynb
